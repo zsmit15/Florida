@@ -1,4 +1,4 @@
-﻿zip,city,state,county,latitude,longitude,10_year_price,5_year_price,current_price,10_year_growth,5_year_growth
+zip,city,state,county,latitude,longitude,10_year_price,5_year_price,current_price,10_year_growth,5_year_growth
 33890,Zolfo Springs,FL,Hardee,27.48,-81.7423,"68,907.00","99,014.00","131,832.00",0.91,0.33
 33540,Zephyrhills,FL,Pasco,28.2151,-82.1506,"96,201.00","129,341.00","221,273.00",1.30,0.71
 33541,Zephyrhills,FL,Pasco,28.2311,-82.2057,"116,951.00","160,064.00","260,263.00",1.23,0.63
